@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|b:\\pc\\study\\unity\\unitymath\\chapter01\\assets\\scripts\\targetrotatebyshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetrotatebyshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\targetrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\shotmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shotmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\moveupanddown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveupanddown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\spincomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spincomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\degreecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\degreecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\followcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\movecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\assets\\scripts\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3ACCE3-A4F6-712D-57F0-F162F863BC6F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TargetRotateByShot.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\TargetRotateByShot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetRotateByShot.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\TargetRotateByShot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetRotateByShot.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:28:25.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TargetRotate.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\TargetRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetRotate.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\TargetRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetRotate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCcAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShotMove.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\ShotMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShotMove.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\ShotMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShotMove.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveUpandDown.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\MoveUpandDown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveUpandDown.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\MoveUpandDown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveUpandDown.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpinComponent.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\SpinComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpinComponent.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\SpinComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpinComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DegreeComponent.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\DegreeComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DegreeComponent.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\DegreeComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DegreeComponent.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwCYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FollowComponent.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\FollowComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowComponent.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\FollowComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowComponent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveComponent.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\MoveComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveComponent.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\MoveComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveComponent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HelloWorld.cs",
+              "ToolTip": "B:\\PC\\STUDY\\UNITY\\UnityMath\\Chapter01\\Assets\\Scripts\\HelloWorld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HelloWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-02T15:28:25.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
